@@ -15,4 +15,5 @@ alert("ok you are accept!")
 alert("you are under age")
 }
 alert($num)
+    document.write($num)
 }
